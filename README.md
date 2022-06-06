@@ -1,8 +1,8 @@
 # My Dissertation
-## Author: Youngji Jo, Mozart, Bethoven, Robert Robert
+
+## Author: Robert Robert, Youngji Jo
 ## Boston University
 ## Research computing
 
 Description of my dissertation
-My PI is Wayne Gilmore
-
+My LPI is Wayne Gilmore
